@@ -21,7 +21,7 @@ modules:
     sources:
       - type: git
         url: https://github.com/nacho/mecalin.git
-        commit: 0c736a30452b663a3c90f03f4628d024a9120d08
+        commit: 241488b2ca967263c08a9a2774aaca3697cf960e
       # cargo-sources.json needs to be placed before the
       # copying, otherwise the config will just be empty
       - cargo-sources.json
