@@ -873,14 +873,14 @@
     {
         "type": "archive",
         "archive-type": "tar-gzip",
-        "url": "https://static.crates.io/crates/proc-macro2/proc-macro2-1.0.105.crate",
-        "sha256": "535d180e0ecab6268a3e718bb9fd44db66bbbc256257165fc699dadf70d16fe7",
-        "dest": "cargo/vendor/proc-macro2-1.0.105"
+        "url": "https://static.crates.io/crates/proc-macro2/proc-macro2-1.0.106.crate",
+        "sha256": "8fd00f0bb2e90d81d1044c2b32617f68fcb9fa3bb7640c23e9c748e53fb30934",
+        "dest": "cargo/vendor/proc-macro2-1.0.106"
     },
     {
         "type": "inline",
-        "contents": "{\"package\": \"535d180e0ecab6268a3e718bb9fd44db66bbbc256257165fc699dadf70d16fe7\", \"files\": {}}",
-        "dest": "cargo/vendor/proc-macro2-1.0.105",
+        "contents": "{\"package\": \"8fd00f0bb2e90d81d1044c2b32617f68fcb9fa3bb7640c23e9c748e53fb30934\", \"files\": {}}",
+        "dest": "cargo/vendor/proc-macro2-1.0.106",
         "dest-filename": ".cargo-checksum.json"
     },
     {
@@ -1471,14 +1471,14 @@
     {
         "type": "archive",
         "archive-type": "tar-gzip",
-        "url": "https://static.crates.io/crates/zmij/zmij-1.0.15.crate",
-        "sha256": "94f63c051f4fe3c1509da62131a678643c5b6fbdc9273b2b79d4378ebda003d2",
-        "dest": "cargo/vendor/zmij-1.0.15"
+        "url": "https://static.crates.io/crates/zmij/zmij-1.0.16.crate",
+        "sha256": "dfcd145825aace48cff44a8844de64bf75feec3080e0aa5cdbde72961ae51a65",
+        "dest": "cargo/vendor/zmij-1.0.16"
     },
     {
         "type": "inline",
-        "contents": "{\"package\": \"94f63c051f4fe3c1509da62131a678643c5b6fbdc9273b2b79d4378ebda003d2\", \"files\": {}}",
-        "dest": "cargo/vendor/zmij-1.0.15",
+        "contents": "{\"package\": \"dfcd145825aace48cff44a8844de64bf75feec3080e0aa5cdbde72961ae51a65\", \"files\": {}}",
+        "dest": "cargo/vendor/zmij-1.0.16",
         "dest-filename": ".cargo-checksum.json"
     },
     {
