@@ -1,6 +1,6 @@
 app-id: io.github.nacho.mecalin
 runtime: org.gnome.Platform
-runtime-version: '49'
+runtime-version: '50'
 sdk: org.gnome.Sdk
 sdk-extensions:
   - org.freedesktop.Sdk.Extension.rust-stable
@@ -21,7 +21,7 @@ modules:
     sources:
       - type: git
         url: https://github.com/nacho/mecalin.git
-        commit: 62da8178ae56c2a6696e8fa1ae6a6994ef4fa51a
+        commit: b759f7c7ff630ab21eb9e3e11a2fcc22568b650f
       # cargo-sources.json needs to be placed before the
       # copying, otherwise the config will just be empty
       - cargo-sources.json
